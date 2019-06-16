@@ -25,7 +25,7 @@ class ViewController: UIViewController {
                 assert(error == nil && saved)
             }
             
-            print("Done")
+            print("Done with saving")
         }.resume()
     }
     
